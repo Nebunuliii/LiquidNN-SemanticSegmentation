@@ -1,7 +1,8 @@
-Acest proiect explorează utilizarea Rețelelor Neuronale Lichide pentru sarcini de segmentare semantică pe imagini reale sau sintetice.
+This project explores the use of Liquid Neural Networks for semantic segmentation tasks on real or synthetic images.
 
-### Caracteristici:
-- Model de rețea neuronală lichidă (LNN) implementat în Python folosind PyTorch
-- Segmentare semantică pixel-wise pe imagini folosind dataset-uri etichetate
-- Evaluare cu metrici standard: IoU, Dice Score, Pixel Accuracy
-- Comparare performanță cu arhitecturi CNN clasice
+### Features:
+- Liquid Neural Network (LNN) model implemented in Python using PyTorch
+- Pixel-wise semantic segmentation on images using labeled datasets
+- Evaluation with standard metrics: IoU, Dice Score, Pixel Accuracy
+- Performance comparison with classic CNN architectures
+
